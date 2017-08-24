@@ -11,3 +11,8 @@
 
 - [How dynamodb works](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.html)
 - [nodejs and dynamodb](http://docs.aws.amazon.com/amazondynamodb/latest/gettingstartedguide/GettingStarted.NodeJs.html)
+
+
+##
+
+You can use the query method to retrieve data from a table. You must specify a partition key value; the sort key is optional.
