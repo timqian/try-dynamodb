@@ -11,7 +11,7 @@
 
 - [How dynamodb works](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.html)
 - [nodejs and dynamodb](http://docs.aws.amazon.com/amazondynamodb/latest/gettingstartedguide/GettingStarted.NodeJs.html)
-
+- [best practice for dynamodb](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/BestPractices.html)
 
 ##
 
